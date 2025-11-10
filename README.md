@@ -142,7 +142,7 @@ SOURCE "day11 - miniproject -1.sql";
 ### 🧠 Author
 **Mamidi Jayasurya**  
 📧 [mamidijayasurya1010@gmail.com]
-💼 Aspiring **Data Analyst**
+
 
 ---
 

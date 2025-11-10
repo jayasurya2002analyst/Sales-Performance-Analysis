@@ -53,9 +53,9 @@ The goal is to identify key sales trends, profit insights, and regional performa
 ### 📊 Example Metrics
 | Metric | Value (Example) |
 |--------|----------------|
-| Total Sales | ₹2,45,000 |
-| Total Profit | ₹38,000 |
-| Avg Profit % | 15.5% |
+| Total Sales | ₹ 8,82,429 |
+| Total Profit | ₹ 1,72,664 |
+| Avg Profit % | 28.57% |
 
 *(Actual values may vary based on dataset used.)*
 # 🧮 SQL Analysis – Sales Performance Project
